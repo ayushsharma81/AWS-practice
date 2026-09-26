@@ -58,7 +58,7 @@ AWS Account
 # 2. Repository Structure
 
 ```text
-01-iam/
+01-IAM/
 │
 ├── README.md
 │
